@@ -1,6 +1,6 @@
 name: Blog
 url: http://jeakyungc.github.io
-description: A stylish blog using the Solarized color palette
+description: Archive of study in CS, daliy life etc... 
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
