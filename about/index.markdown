@@ -8,7 +8,7 @@ I am a passionate student in the field of software engineering and I am gaining 
 My first programming exprience was scripting to make toy-simulation of icecream market with game maker at middle school it was very challenging to me but this exprience lead me to this world.
 
 ## Education
-<img src="../images/skku_s.png" class="right" />
+<img src="../images/skku_s.png" class="right" width="100"/>
 Currently in 3rd course of Bacheloar of Software engineering degree.
 [SKKU](https://cse.skku.edu/cse/index.do)
 
