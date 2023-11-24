@@ -4,15 +4,9 @@ title:  "Welcome to My Blog!"
 date:   2023-11-19 17:06:25
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+## Introduction
+Hello world!
+I am a passionate student in the field of software engineering and I am gaining various projects and experience. I like to constantly challenge, learn, and grow the infinite possibilities of software and technology.
+My first programming exprience was scripting to make toy-simulation of icecream market with game maker at middle school it was very challenging to me but this exprience lead me to this world.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+For more information about me, please check 'About' tab.
