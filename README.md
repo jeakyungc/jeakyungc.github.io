@@ -2,11 +2,11 @@
 
 [Link](jeakyungc.github.io)
 
-**Theme**
+#### Theme
 ---
 Solar Theme for Jekyll
 
-**License**
+#### License
 ---
 
 GPLv2 or higher
