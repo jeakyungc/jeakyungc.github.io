@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 ## Education
-<img src="../images/skku_s.png" width="100"/>
+<img src="../images/skku_s.png" class="right" width="100"/>
 Currently in 3rd course of Bacheloar of Software engineering degree.
 [SKKU](https://cse.skku.edu/cse/index.do)
 
