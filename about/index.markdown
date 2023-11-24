@@ -27,5 +27,7 @@ Game design/dev, Computer Graphics
 
 ## Contact
 I try to check regularly, but I'll respond within a week
+
 email: kll012@g.skku.edu
+
 [Github](https://github.com/jeakyungc)
