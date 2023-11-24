@@ -9,6 +9,6 @@ My first programming exprience was scripting to make toy-simulation of icecream 
 
 
 ## Education
-<img src="../images/skku.png" class="right" />
+<img src="../images/skku_s.png" class="right" />
 Currently in course of Bacheloar of Software engineering degree
 [SKKU](https://cse.skku.edu/cse/index.do)
